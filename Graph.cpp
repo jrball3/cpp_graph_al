@@ -8,7 +8,6 @@
 
 typedef int GraphKey;
 
-// Custom comparator that compares the string objects by length
 template<typename T>
 struct PtrKeyComparator
 {
